@@ -1,0 +1,9 @@
+body{
+    background-color: blue;
+}
+.header{
+    width: 50%;
+    height: 50;
+    background-color: blueviolet;
+    color: white;
+}
